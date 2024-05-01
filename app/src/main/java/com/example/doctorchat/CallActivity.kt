@@ -50,7 +50,7 @@ class CallActivity : AppCompatActivity() {
             }
         })
 
-        userIDInput.editText!!.setText("65e0249bda29bcc6974c3fd4")
+        userIDInput.editText!!.setText("65e0249b88633d11188f7ck99")
 
         userLogin.setOnClickListener { v: View? ->
             val userID = userIDInput.editText!!.text.toString()
